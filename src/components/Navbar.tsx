@@ -41,7 +41,7 @@ export default function Navbar() {
         <div className="md:hidden bg-zinc-900 px-6 pb-6">
           <ul className="flex flex-col space-y-4 text-gray-300">
             <li className="hover:text-orange-500 cursor-pointer">Home</li>
-            <li className="hover:text-orange-500 cursor-pointer">About me</li>
+            <a href="#about" className="hover:text-orange-500">About</a>
             <li className="hover:text-orange-500 cursor-pointer">Projects</li>
             <li className="hover:text-orange-500 cursor-pointer">Contact me</li>
           </ul>
