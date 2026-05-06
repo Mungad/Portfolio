@@ -42,7 +42,9 @@ export default function Navbar() {
           <ul className="flex flex-col space-y-4 text-gray-300">
             <li className="hover:text-orange-500 cursor-pointer">Home</li>
             <a href="#about" className="hover:text-orange-500">About</a>
-            <li className="hover:text-orange-500 cursor-pointer">Projects</li>
+            <a href="#projects" className="hover:text-orange-500">
+  Projects
+</a>
             <li className="hover:text-orange-500 cursor-pointer">Contact me</li>
           </ul>
 
