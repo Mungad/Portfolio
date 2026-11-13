@@ -20,7 +20,7 @@ export default function About() {
   ];
 
   return (
-    <section id="about" className="bg-gray-900 text-white py-20 px-6">
+    <section id="about" className="bg-gray-950 text-white py-20 px-6">
       <div className="max-w-7xl mx-auto">
 
         {/* Section Heading */}
@@ -46,7 +46,7 @@ export default function About() {
           <div className="space-y-10">
 
             {/* Bio */}
-            <div className="bg-gray-800 rounded-2xl p-8 shadow-lg">
+            <div className="bg-gray-900 rounded-2xl p-8 shadow-lg">
               <h3 className="text-2xl font-semibold mb-6">
                 Who I Am
               </h3>
@@ -92,7 +92,7 @@ export default function About() {
             </div>
 
             {/* Education */}
-            <div className="bg-gray-800 rounded-2xl p-8 shadow-lg">
+            <div className="bg-gray-900 rounded-2xl p-8 shadow-lg">
               <h3 className="text-2xl font-semibold mb-6">
                 Education & Professional Training
               </h3>
@@ -128,7 +128,7 @@ export default function About() {
                   <span className="absolute -left-[34px] top-1 w-4 h-4 bg-orange-500 rounded-full" />
 
                   <p className="text-orange-400 text-sm mb-2">
-                    2021 – 2025
+                    September 2021 – August 2025
                   </p>
 
                   <h4 className="text-lg font-semibold">
@@ -153,7 +153,7 @@ export default function About() {
           <div className="space-y-10">
 
             {/* Work Experience */}
-            <div className="bg-gray-800 rounded-2xl p-8 shadow-lg">
+            <div className="bg-gray-900 rounded-2xl p-8 shadow-lg">
               <h3 className="text-2xl font-semibold mb-8">
                 Experience & Training
               </h3>
@@ -248,7 +248,7 @@ export default function About() {
             </div>
 
             {/* Technical Skills */}
-            <div className="bg-gray-800 rounded-2xl p-8 shadow-lg">
+            <div className="bg-gray-900 rounded-2xl p-8 shadow-lg">
               <h3 className="text-2xl font-semibold mb-6">
                 Technical Skills
               </h3>
